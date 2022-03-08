@@ -1,0 +1,1 @@
+n = input("Choose an iteger 'n': ")
