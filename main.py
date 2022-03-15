@@ -14,5 +14,5 @@ import bs4
 
 n = input("Choose an iteger 'n': ")
 
-def play(n):
-  
+#start on a random page: https://en.wikipedia.org/wiki/Special:Random
+
